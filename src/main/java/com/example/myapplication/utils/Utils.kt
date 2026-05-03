@@ -1,0 +1,5 @@
+package com.example.myapplication.utils
+
+object Utils {
+    const val Authorization = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlN2I2ZmE4ZDYwMTVkM2VkNmQxNTcyMDBhMmEyZTQ2NCIsIm5iZiI6MTYxNDIzODg2MS4yNjcsInN1YiI6IjYwMzc1NDhkM2UwMWVhMDAzZTcyMzNjYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pM0EED0QZHD1DL-UXzWMCdKuHoO2v6tPBH8TScBPx1w"
+}
